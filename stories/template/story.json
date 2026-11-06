@@ -7,10 +7,10 @@
   "phone": {
     "owner": "申留真",
     "date": "2026-10-25",
-    "time": "09:41",
+    "time": "04:17",
     "battery": 94,
     "network": "5G",
-    "wallpaper": "public/wallpaper.jpg.jpg"
+    "wallpaper": "docs/images/下載 (3).jpg"
   },
   "installedApps": [
     "appstore",
@@ -92,7 +92,7 @@
       "id": "test-contact",
       "name": "黃禮志",
       "phone": "",
-      "bio": "嗨。"
+      "bio": ""
     }
   ],
   "chats": [
@@ -234,14 +234,14 @@
       ],
       "messages": [
         {
-          "id": "test-message-kakao",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
+          "id": "黃禮志",
+          "body": "我好想你。",
+          "senderId": "椰咚"
         },
         {
           "id": "test-reply-kakao",
-          "body": "这是一条测试回复。",
-          "senderId": "owner"
+          "body": "我在機場了，不用等我。",
+          "senderId": "申留真"
         }
       ]
     }
